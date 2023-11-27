@@ -1,0 +1,8 @@
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet\bin\Debug\AdoPet.exe.config
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet\bin\Debug\AdoPet.exe
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet\bin\Debug\AdoPet.pdb
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet\obj\Debug\AdoPet.Console.csproj.AssemblyReference.cache
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet\obj\Debug\AdoPet.Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet\obj\Debug\AdoPet.Console.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet\obj\Debug\AdoPet.exe
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet\obj\Debug\AdoPet.pdb

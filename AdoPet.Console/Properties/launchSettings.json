@@ -1,0 +1,8 @@
+﻿{
+  "profiles": {
+    "Adopet.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "help"
+    }
+  }
+}

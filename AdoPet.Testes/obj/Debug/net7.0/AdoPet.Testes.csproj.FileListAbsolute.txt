@@ -1,0 +1,6 @@
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet.Testes\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet.Testes\obj\Debug\net7.0\AdoPet.Testes.csproj.AssemblyReference.cache
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet.Testes\obj\Debug\net7.0\AdoPet.Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet.Testes\obj\Debug\net7.0\AdoPet.Testes.AssemblyInfoInputs.cache
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet.Testes\obj\Debug\net7.0\AdoPet.Testes.AssemblyInfo.cs
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet.Testes\obj\Debug\net7.0\AdoPet.Testes.csproj.CoreCompileInputs.cache

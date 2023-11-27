@@ -1,0 +1,5 @@
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet.Console\obj\Debug\net7.0\AdoPet.Console.csproj.AssemblyReference.cache
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet.Console\obj\Debug\net7.0\AdoPet.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet.Console\obj\Debug\net7.0\AdoPet.Console.AssemblyInfoInputs.cache
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet.Console\obj\Debug\net7.0\AdoPet.Console.AssemblyInfo.cs
+C:\Users\Eduardo Almeida\source\repos\AdoPet\AdoPet.Console\obj\Debug\net7.0\AdoPet.Console.csproj.CoreCompileInputs.cache
